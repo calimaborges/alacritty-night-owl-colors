@@ -2,11 +2,13 @@
 
 A port of Sarah Drasner's [Night Owl VS Code theme](https://github.com/sdras/night-owl-vscode-theme) for Alacritty
 
+![Alacritty Night Owl Colours](test-script-output.png)
+
 ## Instructions
 
 Just replace the `colors` tree with the following on your `alacritty.yml`:
 
-```yml
+```yaml
 # Colors (Night Owl by Sarah Drasner)
 colors:
   # Default colors
@@ -21,8 +23,8 @@ colors:
 
   # Normal colors
   normal:
-    black:   '0x011627'
-    red:     '0xef5350j'
+    black:   '0x000000'
+    red:     '0xef5350'
     green:   '0x22da6e'
     yellow:  '0xaddb67'
     blue:    '0x82aaff'
@@ -41,3 +43,5 @@ colors:
     cyan:    '0x7fdbca'
     white:   '0xffffff'
 ```
+
+Test script obtained from: https://pastebin.com/LPtpFFub
