@@ -2,7 +2,9 @@
 
 A port of Sarah Drasner's [Night Owl VS Code theme](https://github.com/sdras/night-owl-vscode-theme) for Alacritty
 
-## Just replace the `colors` tree with the following on your `alacritty.yml`:
+## Instructions
+
+Just replace the `colors` tree with the following on your `alacritty.yml`:
 
 ```yml
 # Colors (Night Owl by Sarah Drasner)
