@@ -1,5 +1,7 @@
 # alacritty-night-owl-colors
 
+DEPRECATED: Theme is now available at: https://github.com/alacritty/alacritty/wiki/Color-schemes
+
 A port of Sarah Drasner's [Night Owl VS Code theme](https://github.com/sdras/night-owl-vscode-theme) for Alacritty
 
 ![Alacritty Night Owl Colours](test-script-output.png)
